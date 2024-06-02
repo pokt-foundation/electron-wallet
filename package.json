@@ -73,7 +73,7 @@
     "electron-builder": "^22.13.1",
     "log-update": "^4.0.0",
     "mocha": "^9.1.3",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "react-scripts": "4.0.3",
     "s3": "https://github.com/rBurgett/node-s3-client.git",
     "should": "^13.2.3",
